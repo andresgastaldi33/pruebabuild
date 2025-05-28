@@ -1,0 +1,24 @@
+{
+  "name": "pruebabuild",
+  "version": "1.0.0",
+  "description": "andres y e",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresgastaldi33/pruebabuild.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresgastaldi33/pruebabuild/issues"
+  },
+  "homepage": "https://github.com/andresgastaldi33/pruebabuild#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
